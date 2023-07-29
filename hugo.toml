@@ -3,10 +3,12 @@ languageCode = 'en-us'
 title = 'Ashutosh Singh' 
 theme = 'holy'
 
-# [menu]
 
-#   [[menu.main]]
-#     identifier = "about"
-#     name = "About"
-#     url = "/about"
-#     weight = 10
+
+[menu]
+
+  [[menu.main]]
+    identifier = "blogs"
+    name = "blogs"
+    url = "/blogs"
+    weight = 10
