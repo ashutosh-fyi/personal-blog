@@ -1,0 +1,12 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Ashutosh Singh' 
+theme = 'holy'
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "Whoami"
+    url = "/whoami"
+    weight = 10
