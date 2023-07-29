@@ -17,4 +17,4 @@ I'm trying to setup this website on nights and weekends.
 
 Goal is to help me reflect more often, document and share unique insights.
 
-If you want to chat, best way to reach is [X](https://twitter.com/iamashutosh7)
+If you want to chat, best way to reach is [X](x.com/iamashutosh7)
