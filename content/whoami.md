@@ -5,4 +5,3 @@ draft : false
 layout : "single"
 ---
 
-### this page will tell who is Ashutosh.
