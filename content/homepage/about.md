@@ -1,7 +1,6 @@
 ---
-title : "Whoami"
+title : "About me"
 date : "2023-07-19"
-draft : false
+draft : true
 layout : "single"
 ---
-
