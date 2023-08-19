@@ -9,9 +9,9 @@ Namaste 🙏
 
 I'm Ashutosh Singh 👋
 
-I am 20 and currently an APM at Zoho.
+I am 21 and currently an APM at Zoho.
 
-I hail from Varanasi, a city in Uttar Pradesh, India. 🇮🇳
+I hail from [Varanasi](https://en.wikipedia.org/wiki/Varanasi), a city in Uttar Pradesh, India. 🇮🇳
 
 I'm trying to setup this website on nights and weekends.
 
