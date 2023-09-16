@@ -1,7 +1,7 @@
 ---
 title: "configuring blogs"
 date: 2023-07-29T16:15:42+05:30
-draft: false
+draft: true
 ---
 
 From your `baseof.html` file, it seems like the footer is included twice:
