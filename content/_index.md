@@ -18,3 +18,5 @@ I'm trying to setup this website on nights and weekends.
 Goal is to help me reflect more often, document and share my journey.
 
 If you want to chat, best way to reach is [X](https://x.com/iamashutosh7)
+
+Aryan is my frand
