@@ -4,7 +4,7 @@ date: 2024-09-11 02:35:09
 layout: post
 lang: en
 tags: [tech]
-draft: true
+draft: false
 ---
 #+OPTIONS: toc:nil num:nil
 #+LANGUAGE: en
