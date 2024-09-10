@@ -1,0 +1,89 @@
+---
+title: understanding product execution
+date: 2024-09-11 04:06:15
+layout: post
+lang: en
+tags: [product]
+draft: true
+---
+#+OPTIONS: toc:nil num:nil
+#+LANGUAGE: en
+
+according to shreyas, there are [[https://x.com/shreyas/status/1055720049879773186][3 essential PM sense]] -
+1. Product sense
+2. Analytical sense
+3. Execution sense 
+
+I broke down my skillsets,
+here is a breakdown -
+
+**good things**
+
+sees long term vision/strategy
+market and customer understanding
+product sense
+
+**can be improved**
+
+often work alone without anyone knowing
+overthinker and perfectionist
+can try to figure it all out by themselves
+bad at operations - taking idea to eng, design
+emotional intelligence
+
+It wasn't hard for me to come to a conclusion that i'm pretty weak at few elements of execution sense 
+
+
+**what is execution sense really?**
+
+→ ability to align people on an objective, and orchestrate complex projects
+
+→ while exercising creativity, empathy and persuasiveness in addition to superb organisational organization capabilities
+
+→  quickly delivering the right things
+
+**what does good execution look like?**
+    1. Aspects
+        1. Buy-in from internal stakeholders, 
+            1. Tactic :  RACI
+            2. weekly progress updates
+            3. market internally
+            4. roadmap doc
+        2. making trade-offs, retros, deadlines
+    2. scoping : improper scoping and assumption that work will be less than expected is an issue
+    3. simulation
+    4. strong project management skills
+    5. use data
+    6. relationships and trust
+
+→ team/org level
+
+→ product level
+
+1. what are common executional challenges?
+    1. classic : delay in shipping something
+    2. frustrated engineers and designers, not in sync
+
+5. who is the best at execution here and outside?
+
+team gets what we’re trying to do
+
+everyone is pushing in 
+
+have your products delivered behind schedule? Do they release with less than the promised functionality? Have engineers worked on other projects that conflicted with delivering yours? Worse yet, has senior leadership contradicted your roadmaps and priorities explicitly or implicitly? All of these are signs of poor execution, but the root cause is communication: namely, "is everyone on the same page?”
+
+I find lately I do a poll before the weekly sync on if the meeting will be useful for others/ letting ppl know they have the choice to not attend if they don't want to. In my company, we also don't have project managers or POs and I wear a lot of hats lol
+
+Main blockers are alignment on scope (what to build) and communicating what we are building. When stakeholders don't understand what they are expecting to get, they start imagining unicorns. When what's shipped doesn't align with their expectations, they will exert tighter control with constant feature requests to make sure they are "not disappointed" this time.
+
+It starts with communication – you need to make sure that everyone knows what they need to do, and why. Then you need to make sure that they do it.
+
+i think in pure execution, your job as a pm is to provide enough context to enginners, designers and other so that they’re able to do it to it’s max ability + editing later - be clear and provide clarity
+
+enginnering is going to operate bit differntly compared to earlier
+
+pm research
+
+discussion with enginnering+design
+
+user stories? and design start

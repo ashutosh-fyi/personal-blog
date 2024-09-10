@@ -1,0 +1,31 @@
+---
+title: the curious case of dev timelines
+date: 2024-09-11 03:59:53
+layout: post
+lang: en
+tags: [product]
+draft: true
+---
+#+OPTIONS: toc:nil num:nil
+#+LANGUAGE: en
+
+
+Here is a classic product management problem, what you imagined is not getting shipped on time. While there are so many facets to this, and is packed with multiple perspective, which I'd love to talk about eventually - today I want to focus on the execution part -
+
+1. Idea and scoping what we want to build
+
+Why is it taking long to build what you want -
+
+It's managing expectation, I feel many non technical product managers, including me, underestimate the work required to ship something, and it's not from a code that needs to be written.
+
+It's the illusion that you have the solution clear in your head and that if you do some brainstorming, have a PRD, build figma screens - you have the solution.
+
+And now, it only needs to be built, important part is the ignorance of complexity that needs to be dealt at engineering level for executing this. Product Management is not a disassociated function from Engineering. The whole idea that you "have the solution" once you have the design is flawed. It is leaving the actual solutioning on engineering and a receipe to surprises. I think to a degree it is the testament of the kind of engineering team we have here that we leave it to them to figure it all out. This "solution is completed with design" could be coming from the riff/insecurity of the PM/EM to prove their "work".
+
+As I quote the below from DHH, you had a bad understanding of the problem to begin with
+
+#+A classic point given on that is, well, I don't want to constraint my solution based on what engineering can do -
+
+It turns out that programmers are actually surprisingly good at delivering great software on time, if you leave the scope open to negotiation during development. You're not going to get *exactly* what you asked for, but you wouldn't want that anyway. Because what you asked for before you began building was based on the absolute worst understanding of the problem.
+
+This has been my experience, till now. Jason from 37 signal/ basecamp also talks about the design addiction, which I've been personally victim of, you feel you're more in control when you see it working in front of you, just that it's not actually that but a mirage.
