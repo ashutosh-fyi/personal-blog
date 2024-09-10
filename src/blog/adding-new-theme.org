@@ -1,0 +1,22 @@
+---
+title: moving to jorge
+date: 2024-09-11 02:35:09
+layout: post
+lang: en
+tags: [tech]
+draft: true
+---
+#+OPTIONS: toc:nil num:nil
+#+LANGUAGE: en
+
+i stumbled on this article, [[https://olano.dev/blog/code-is-run-more-than-read][code is run more than read]]
+from hackernews and from there, i went into the rabbit hole of reading other stuff 
+from the author and found the whole blog to be nice and also that it's available to use, 
+and i eventually decided that i'm gonna use this.
+
+I have many ideas for the blog but i want something simple to begin with
+
+i was earlier using hugo, and [[https://hugo-holy.pages.dev/][this template]], i liked it, but 
+it felt too complicated for a blog,
+
+i like the whole tinkering with the blog to actually deploy something as well.
