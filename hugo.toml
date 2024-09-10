@@ -8,7 +8,7 @@ theme = 'holy'
 [menu]
 
   [[menu.main]]
-    identifier = "blogs"
-    name = "blogs"
-    url = "/blogs"
+    identifier = "about"
+    name = "thoughts"
+    url = "/thoughts"
     weight = 10
