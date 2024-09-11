@@ -1,0 +1,28 @@
+---
+title: rick rubin on procastination
+date: 2024-09-11 16:17:23
+layout: post
+lang: en
+tags: []
+draft: false
+---
+#+OPTIONS: toc:nil num:nil
+#+LANGUAGE: en
+
+i stumbled upon this video of rick rubin where he speaks about 
+creative/writer block and it deeply resonated,
+
+basically, when you're in a block or are procastinating - you're scared :
+
+internal - confidence issue \\
+external - fear of judgement
+
+solution : everything i make is an diary entry, \\
+doesn't have to have any expectation, \\
+make it for youselves
+
+
+#+BEGIN_EXPORT html
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Rick Rubin tells Andrew Huberman how he deals with creative or writer’s block.<br><br>He treats his work like a diary entry (and doesn’t worry about internal or external judgment):<br><br>➡️ “What&#39;s the cause of the block? <br><br>The block is usually something that&#39;s either personal (&quot;I&#39;m not… <a href="https://t.co/KqP7B2tPBo">pic.twitter.com/KqP7B2tPBo</a></p>&mdash; Trung Phan (@TrungTPhan) <a href="https://twitter.com/TrungTPhan/status/1739835673853804569?ref_src=twsrc%5Etfw">December 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+#+END_EXPORT
+
