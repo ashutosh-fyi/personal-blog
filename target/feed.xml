@@ -1,1 +1,109 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="https://jorge.olano.dev/" version="0.0.1">jorge</generator><link href="ashutosh.fyi/feed.xml" rel="self" type="application/atom+xml"/><link href="ashutosh.fyi" rel="alternate" type="text/html"/><updated>2024-09-11 16:32</updated><id>ashutosh.fyi/feed.xml</id><title type="html">ashutosh.fyi</title><author><name>ashutosh</name></author><entry xml:lang="en"><title type="html">rick rubin on procastination</title><link href="ashutosh.fyi/blog/rick-rubin-on-procastination" rel="alternate" type="text/html" title="rick rubin on procastination"/><published>2024-09-11 16:17</published><updated>2024-09-11 16:17</updated><id>ashutosh.fyi/blog/rick-rubin-on-procastination</id><author><name>ashutosh</name></author><summary type="html"> i stumbled upon this video of rick rubin where he speaks about creative/writer block and it deeply resonated,</summary></entry><entry xml:lang="en"><title type="html">moving to jorge</title><link href="ashutosh.fyi/blog/adding-new-theme" rel="alternate" type="text/html" title="moving to jorge"/><published>2024-09-11 02:35</published><updated>2024-09-11 02:35</updated><id>ashutosh.fyi/blog/adding-new-theme</id><author><name>ashutosh</name></author><category term="tech"/><summary type="html"> i stumbled on this article, code is run more than read from hackernews and from there, i went into the rabbit hole of reading other stuff from the author and found the whole blog to be nice and also that it's available to use, and i eventually decided that i'm gonna use this.</summary></entry><entry><title type="html">Hello Org!</title><link href="ashutosh.fyi/blog/hello-org" rel="alternate" type="text/html" title="Hello Org!"/><published>2024-02-17 00:00</published><updated>2024-02-17 00:00</updated><id>ashutosh.fyi/blog/hello-org</id><author><name>ashutosh</name></author><summary type="html"> This post was originally written with org-mode syntax, instead of markdown.</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" >
+    <generator uri="https://jorge.olano.dev/" version="0.0.1">jorge</generator>
+    <link href="http://localhost:4001/feed.xml" rel="self" type="application/atom+xml"/>
+    <link href="ashutosh.fyi" rel="alternate" type="text/html"/>
+    <updated>2024-10-02 03:07</updated>
+    <id>http://localhost:4001/feed.xml</id>
+    <title type="html">ashutosh.fyi</title>
+    <author>
+        <name>ashutosh</name>
+    </author>
+    
+        <entry xml:lang="en">
+            
+            <title type="html">more on procastination</title>
+            <link href="http://localhost:4001/blog/more-on-procastination" rel="alternate" type="text/html" title="more on procastination"/>
+            <published>2024-10-02 03:05</published>
+            <updated>2024-10-02 03:05</updated>
+            <id>http://localhost:4001/blog/more-on-procastination</id>
+            <author>
+                <name>ashutosh</name>
+            </author>
+            
+            <summary type="html"><![CDATA[]]></summary>
+            
+        </entry>
+    
+        <entry xml:lang="en">
+            
+            <title type="html">rick rubin on procastination</title>
+            <link href="http://localhost:4001/blog/rick-rubin-on-procastination" rel="alternate" type="text/html" title="rick rubin on procastination"/>
+            <published>2024-09-11 16:17</published>
+            <updated>2024-09-11 16:17</updated>
+            <id>http://localhost:4001/blog/rick-rubin-on-procastination</id>
+            <author>
+                <name>ashutosh</name>
+            </author>
+            
+            <summary type="html"><![CDATA[ i stumbled upon this video of rick rubin where he speaks about creative/writer block and it deeply resonated,]]></summary>
+            
+        </entry>
+    
+        <entry xml:lang="en">
+            
+            <title type="html">understanding product execution</title>
+            <link href="http://localhost:4001/blog/understanding-product-execution" rel="alternate" type="text/html" title="understanding product execution"/>
+            <published>2024-09-11 04:06</published>
+            <updated>2024-09-11 04:06</updated>
+            <id>http://localhost:4001/blog/understanding-product-execution</id>
+            <author>
+                <name>ashutosh</name>
+            </author>
+            
+            <category term="product"/>
+            
+            <summary type="html"><![CDATA[ according to shreyas, there are 3 essential PM sense -]]></summary>
+            
+        </entry>
+    
+        <entry xml:lang="en">
+            
+            <title type="html">the curious case of dev timelines</title>
+            <link href="http://localhost:4001/blog/the-curious-case-of-dev-timelines" rel="alternate" type="text/html" title="the curious case of dev timelines"/>
+            <published>2024-09-11 03:59</published>
+            <updated>2024-09-11 03:59</updated>
+            <id>http://localhost:4001/blog/the-curious-case-of-dev-timelines</id>
+            <author>
+                <name>ashutosh</name>
+            </author>
+            
+            <category term="product"/>
+            
+            <summary type="html"><![CDATA[ Here is a classic product management problem, what you imagined is not getting shipped on time. While there are so many facets to this, and is packed with multiple perspective, which I'd love to talk about eventually - today I want to focus on the execution part -]]></summary>
+            
+        </entry>
+    
+        <entry xml:lang="en">
+            
+            <title type="html">moving to jorge</title>
+            <link href="http://localhost:4001/blog/moving-to-jorge" rel="alternate" type="text/html" title="moving to jorge"/>
+            <published>2024-09-11 02:35</published>
+            <updated>2024-09-11 02:35</updated>
+            <id>http://localhost:4001/blog/moving-to-jorge</id>
+            <author>
+                <name>ashutosh</name>
+            </author>
+            
+            <category term="tech"/>
+            
+            <summary type="html"><![CDATA[ i stumbled on this article, code is run more than read from hackernews and from there, i went into the rabbit hole of reading other stuff from the author and found the whole blog to be nice and also that it's available to use, and i eventually decided that i'm gonna use this.]]></summary>
+            
+        </entry>
+    
+        <entry >
+            
+            <title type="html">Hello Org!</title>
+            <link href="http://localhost:4001/blog/hello-org" rel="alternate" type="text/html" title="Hello Org!"/>
+            <published>2024-02-17 00:00</published>
+            <updated>2024-02-17 00:00</updated>
+            <id>http://localhost:4001/blog/hello-org</id>
+            <author>
+                <name>ashutosh</name>
+            </author>
+            
+            <summary type="html"><![CDATA[ This post was originally written with org-mode syntax, instead of markdown.]]></summary>
+            
+        </entry>
+    
+</feed>

@@ -1,0 +1,10 @@
+---
+title: more on procastination
+date: 2024-10-02 03:05:50
+layout: post
+lang: en
+tags: []
+draft: true
+---
+#+OPTIONS: toc:nil num:nil
+#+LANGUAGE: en
