@@ -1,0 +1,19 @@
+---
+title: overthinking
+date: 2025-03-12 07:47:23
+layout: post
+lang: en
+tags: []
+draft: false
+---
+#+OPTIONS: toc:nil num:nil
+#+LANGUAGE: en
+
+Overthinking is a learned behaviour from childhood that once made us feel safe, we learnt only if we computed all combinations, and considered all possibilities, we'll then find a solution to be safe -- the problem is, most of us still carry this wounded part with us today, which drains our energy because things look bigger than they are, and everything feels overwhelming, so we either quit before we start or lose motivation. 
+
+When we look at ourselves in these situations, we think there is something WRONG with us, but the reality is we need to accept this as a part of ours in order to recover from it. 
+
+
+#+BEGIN_EXPORT html
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Rick Rubin tells Andrew Huberman how he deals with creative or writer’s block.<br><br>He treats his work like a diary entry (and doesn’t worry about internal or external judgment):<br><br>➡️ “What&#39;s the cause of the block? <br><br>The block is usually something that&#39;s either personal (&quot;I&#39;m not… <a href="https://t.co/KqP7B2tPBo">pic.twitter.com/KqP7B2tPBo</a></p>&mdash; Trung Phan (@TrungTPhan) <a href="https://twitter.com/TrungTPhan/status/1739835673853804569?ref_src=twsrc%5Etfw">December 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+#+END_EXPORT
