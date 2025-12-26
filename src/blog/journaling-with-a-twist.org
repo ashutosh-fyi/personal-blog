@@ -1,0 +1,10 @@
+---
+title: journaling with a twist
+date: 2024-10-02 14:08:38
+layout: post
+lang: en
+tags: [projects]
+draft: true
+---
+#+OPTIONS: toc:nil num:nil
+#+LANGUAGE: en

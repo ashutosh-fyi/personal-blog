@@ -8,3 +8,5 @@ draft: true
 ---
 #+OPTIONS: toc:nil num:nil
 #+LANGUAGE: en
+
+I had been stuck on a project for a while, you call it procastination or whatever you want but
