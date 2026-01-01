@@ -1,0 +1,18 @@
+---
+title: unanswered questions
+date: 2026-01-01 19:42:38
+layout: post
+lang: en
+tags: []
+draft: true
+---
+#+OPTIONS: toc:nil num:nil
+#+LANGUAGE: en
+
+Few months ago, I stumbled upon this post from Dwarkesh, which stood out to me
+https://www.dwarkesh.com/p/questions-about-ai
+In today’s world, where everyone seems to have answers,
+
+this resonated as something that is attempting to list out the questions.
+I wanted to list out my own questions I’m constantly thinking about
+
