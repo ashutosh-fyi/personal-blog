@@ -1,0 +1,20 @@
+---
+title: कबीर साहब 
+date: 2026-04-07 15:27:45
+layout: post
+lang: en
+tags: []
+draft: false
+---
+#+OPTIONS: toc:nil num:nil
+#+LANGUAGE: en
+
+जीवन में हमेशा कबीर के समीप रह कर भी मैं उनके बहुत क़रीब नहीं जा सका। 
+जिस स्तर की जीवन की समझ कबीर साहब ने हमसे साझा की है, ऐसा भारतीय क्या समूचे विश्व के साहित्य में सायद ही किसी ने किया होगा
+अंग्रेजी में हम कहते है 'living example' और उसका अर्थ पूरी तरह से कबीर साहब का जीवन है, जितना बोला जय उतना ही कम है 
+मैं आने वाले समय में अपनी सीमित समझ को और साझा करना चाहूँगा
+अभी की लिए कबीर को भजे और 600 साल पहले दी गई उनके सीख को जीवन में उतरे 
+
+ #+BEGIN_EXPORT html
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DZ06evO1umPha?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  #+END_EXPORT
